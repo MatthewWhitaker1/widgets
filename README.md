@@ -1,4 +1,4 @@
-### widgets
+### Widgets
 
 This is a basic widgets react app that displays information to the user via widgets.
 
